@@ -1,0 +1,106 @@
+Create a practical schedule that includes:
+
+- Urgent and important tasks for today
+-  Important tasks for tomorrow
+- Tasks that can be batched or done later
+- A 90-minute deep-work session from 9:00–10:30
+- A 10:00 tomorrow time block
+- A 4:00 PM batching session
+
+Give me clear time blocks and keep the advice encouraging and realistic.
+
+Also include useful South African student tips, such as:
+
+- Prepare and charge devices before loadshedding.
+- Work offline when possible.
+- Use CAPACITI WiFi to download articles and resources.
+- Use 25-minute Pomodoro sessions.
+- Save important work before the power goes off.
+
+Privacy: Do not store personal information. Keep the plan POPIA-safe and offline-friendly.
+
+Email Generator Prompt
+Write an email for one of these situations:
+- Job follow-up
+- Asking for assistance
+- Thank-you email
+- Requesting an extension
+Use the information and context I provide and choose the tone I request:
+- Professional and warm
+- Confident
+- Friendly
+- Formal
+
+The email should include:
+
+- A clear subject line
+- A friendly greeting
+- A short and professional message
+- A portfolio mention where appropriate
+- My signature: Nokuphila Madondo
+- A clear note that the email was AI-generated
+Keep the email under 150 words. Make it sound natural and personal rather than robotic.
+Important: Review the email yourself and make any necessary changes before sending it.
+
+Research Assistant Prompt
+
+Act as an academic research assistant helping a South African student understand a topic quickly and clearly.
+
+Take the topic I provide and explain it in simple language without using unnecessary jargon.
+
+Give me:
+
+RESEARCH
+
+- A short explanation of the topic.
+
+KEY INSIGHTS
+
+- 3 important points.
+- Include relevant research or statistics where available.
+
+STUDY ACTIONS
+
+- 2 practical things I can do to study or apply the information.
+- For example: plan my work on Monday at 8:00 AM or summarise information before reading it in detail.
+
+ANALOGY
+
+- Give me a simple everyday example that makes the topic easier to understand.
+- For example, think of AI as a study buddy that can quickly help you understand a textbook.
+
+SA TIP
+
+- Give advice that is useful for a South African student.
+- Include a data-saving tip such as downloading resources using CAPACITI WiFi and reading them offline later.
+- Include a loadshedding preparation tip.
+Add a simulated research note showing how a research tool such as Perplexity API could be used.
+Keep the explanation simple, useful and easy to understand.
+Challenges and Solutions
+
+1. High data costs for South African students
+
+Students may not always have affordable or reliable internet access.
+
+Solution:
+Noku Ease AI is designed to be lightweight and offline-friendly, using JavaScript without requiring a backend. Students can use CAPACITI WiFi to save articles and resources, then read them offline later.
+
+2. Loadshedding
+
+Power interruptions can make it difficult to complete important work.
+
+Solution:
+The app encourages students to prepare their work offline, charge their devices in advance and plan important tasks around available power. It also includes practical reminders such as charging devices at 8 AM.
+
+3. Generic AI does not always understand the South African student experience
+
+Many AI tools provide general advice that may not consider local challenges.
+
+Solution:
+I tested three versions of my prompts:
+
+- V1: Generic prompt — about 60% relevant
+- V2: Added Johannesburg context — about 80% relevant
+- V3: Added full South African context, including CAPACITI, loadshedding, data costs and POPIA — about 95% relevant
+
+I selected V3 because it produced the most useful and relevant results for South African students
